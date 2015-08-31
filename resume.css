@@ -1,0 +1,38 @@
+
+.content{
+	padding-top:40px;
+	padding-left:10%;
+	padding-right:10%;
+	font-family: "Menlo","Helvetica Neue", Helvetica,sans-serif
+}
+.basicInfo{
+	vertical-align: text-top;
+	padding-bottom: 40px;
+}
+.name{
+	float: left;
+}
+.contact{
+	margin-top: 21px;
+	float: right;
+}
+.occupation{
+	clear: both;
+}
+.info{
+	padding-bottom: 30px;
+	border-top: 1px solid;
+}
+.two-col{
+}
+.work-time{
+	float: left;
+}
+.work-place{
+	float: right;
+}
+.experience{
+	padding-top: 10px;
+	clear: both;
+	padding-bottom: 10px;
+}
